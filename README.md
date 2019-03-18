@@ -2,9 +2,6 @@
 
 Vision Statement: I’m working with anyone from the African social entrepreneurship scene to map the social entrepreneurship sector in the continent for enhanced visibility and fostering of crosscountry collaboration and exchange of know-how.
 
-
-[ If you have one, add your logo or an image here ]
-
 First, I‘m working open because I think social entrepreneurship is important for Africa’s future, and for it to develop, information pertaining to it should be open to all interested parties. Second, I intend for this project to be more than a listing of numbers, I want this project to be a listing of stories, of journeys and of hurdles fought. I think it is essential to have each country listing covered by a native, because there are peculiarities to a country’s culture than outsiders fail to grasp. Africa is a patchwork of cultures and it should be showcased in Sokafrica. This means that I cannot do this alone, and for that I need your help.
 
 ## Getting Started

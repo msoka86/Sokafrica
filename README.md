@@ -3,9 +3,11 @@
 Vision Statement: I’m working with anyone from the African social entrepreneurship scene to map the social entrepreneurship sector in the continent for enhanced visibility and fostering of crosscountry collaboration and exchange of know-how.
 
 The Problem :
+
 There is a lack of centralised information about social entrepreneurship across Africa, resulting in a lack of visibility that hinders the development of the sector. Be it a student interested in setting up his social business or an impact investor looking to diversify his portfolio, both will not find answers to their questions by only browsing the internet.
 
 The Solution :
+
 I wish to develop a solution based platform to document startup stories on entrepreneurship and access to resources that could lead to the creation of interactive forum/platform allowing african entrepreneurs to create synergies. The platform can be used by anyone interested in social entrepreneurship in Africa, but will primarily be tailored for established social entrepreneurs in the continent as well as the main stakeholders of the sector (investors and financial institutions, foundations, development institutions, incubators and accelerators, researchers). It will be a mapping of Africa social entrepreneurship scene, its stories of victories and others of loss, recounted by africans for africans. 
 
 

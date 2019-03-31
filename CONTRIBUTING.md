@@ -1,7 +1,36 @@
 # Contributing to [Project]
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+>Welcome to our repository, and I am thankful that you are thinking of contributing.
+
+At the moment I will wait for the results of the pilot test to decide how to have people contribute. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Restart your project vision here. Redundancy is your friend
 >[Project] is ...

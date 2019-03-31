@@ -18,7 +18,9 @@ I wish to develop a solution based platform to document startup stories on entre
 The approach is to develop a database based on a custom framework through a website, this online portal will allow users to log in and share their information and by doing that make sure they are in control of their narrative. However, at a later stage interviews with registered startups will be undertaken in order to gather more stories and information.
 
 Morocco will serve as a pilot and gathering info in the country will be done done in two phases:
+
 Phase 1: Research
+
 Phase 2: Community Outreach + Curriculum Development
 
 ## Who We Are?

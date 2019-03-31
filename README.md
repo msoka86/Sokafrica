@@ -15,7 +15,7 @@ I wish to develop a solution based platform to document startup stories on entre
 
 ## Getting Started
 
-The approach is to develop a database based on a custom framework through a website, this online portal will allow users to log in and share their information and by doing that make sure they are in control of their narrative. However, at a later stage interviews with registered startups will be undertaken in order to gather more stories and information and present it in a way it really showcases the business spirit and vision. Only then will the company profile be visible to users.
+The approach is to develop a database based on a custom framework through a website, this online portal will allow users to log in and share their information and by doing that make sure they are in control of their narrative. However, at a later stage interviews with registered startups will be undertaken in order to gather more stories and information.
 
 Morocco will serve as a pilot and gathering info in the country will be done done in two phases:
 Phase 1: Research

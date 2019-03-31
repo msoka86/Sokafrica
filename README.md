@@ -40,7 +40,9 @@ Second and last, our priority resides with web development and web design, web h
 
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Welcome to our repository, and I am thankful that you are thinking of contributing.
+
+At the moment I will wait for the results of the pilot test to decide how to have people contribute.
 
 ## Participation Guidelines
 

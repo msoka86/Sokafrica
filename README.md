@@ -1,6 +1,8 @@
 # Sokafrica
 
-Vision Statement: I’m working with anyone from the African social entrepreneurship scene to map the social entrepreneurship sector in the continent for enhanced visibility and fostering of crosscountry collaboration and exchange of know-how.
+Vision Statement:
+
+I’m working with anyone from the African social entrepreneurship scene to map the social entrepreneurship sector in the continent for enhanced visibility and fostering of crosscountry collaboration and exchange of know-how.
 
 The Problem :
 

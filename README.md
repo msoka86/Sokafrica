@@ -6,11 +6,11 @@ I’m working with anyone from the African social entrepreneurship scene to map 
 
 The Problem :
 
-There is a lack of centralised information about social entrepreneurship across Africa, resulting in a lack of visibility that hinders the development of the sector. Be it a student interested in setting up his social business or an impact investor looking to diversify his portfolio, both will not find answers to their questions by only browsing the internet.
+There is a lack of centralised information about social entrepreneurship across Africa, resulting in a lack of visibility that hinders the development of the sector. Be it a student interested in setting up her/his social business or an impact investor looking to diversify her/his portfolio, both will not find answers to their questions by only browsing the internet.
 
 The Solution :
 
-I wish to develop a solution based platform to document startup stories on entrepreneurship and access to resources that could lead to the creation of interactive forum/platform allowing african entrepreneurs to create synergies. The platform can be used by anyone interested in social entrepreneurship in Africa, but will primarily be tailored for established social entrepreneurs in the continent as well as the main stakeholders of the sector (investors and financial institutions, foundations, development institutions, incubators and accelerators, researchers). It will be a mapping of Africa social entrepreneurship scene, its stories of victories and others of loss, recounted by africans for africans. 
+I wish to develop a solution based platform to document startup stories on entrepreneurship and access to resources that could lead to the creation of interactive forum/platform allowing african entrepreneurs to create synergies. The platform can be used by anyone interested in social entrepreneurship in Africa, but will primarily be tailored for established social entrepreneurs in the continent as well as the main stakeholders of the sector (investors and financial institutions, foundations, development institutions, incubators and accelerators, researchers). It will be a mapping of Africa social entrepreneurship scene, its stories of victories and others of loss, recounted by Africans for Africans. 
 
 
 ## Getting Started
@@ -27,7 +27,7 @@ Phase 2: Community Outreach + Curriculum Development
 
 I’m the founder and project lead of Sokafrica, a graduate in finance and communication. I am also an analyst, a writer, a dreamer, an occasional number cruncher, a social entrepreneurship enthusiast and a proud daughter of the black continent.
 
-I've been passionate about building open communities especially in marginalized socities to brigde digital divides, and social entrepreneurship is a subject I feel strongly about, as it boosts economy and helps fight economic and social inqualities, so combining the two seemed liked an obvious path to take for me. This is the main drive and inspiration to this project.
+I've been passionate about building open communities especially in marginalized societies to bridge digital divides, and social entrepreneurship is a subject I feel strongly about, as it boosts economy and helps fight economic and social inqualities. So combining the two seemed liked an obvious path to take for me. This is the main drive and inspiration to this project.
 
 I look forward to engaging and establishing long term partnerships with local and global organizations who share the same passion to better provide visibility, openness and collaboration to the Social entrepreneurship scene in Africa.
 

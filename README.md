@@ -17,7 +17,7 @@ I wish to develop a solution based platform to document startup stories on entre
 
 The approach is to develop a database based on a custom framework through a website, this online portal will allow users to log in and share their information and by doing that make sure they are in control of their narrative. However, at a later stage interviews with registered startups will be undertaken in order to gather more stories and information.
 
-At the moment we will be giving priority to social Business which in spite of their impact on the community do not receive enough media coverage (for lack of didigtal tools, lack of language skills or belonging to an under-represented community).
+At the moment we will be giving priority to Social Businesses which in spite of their impact on the community do not receive enough media coverage (for lack of digital tools, lack of language skills or belonging to an under-represented community).
 
 ## Who We Are?
 

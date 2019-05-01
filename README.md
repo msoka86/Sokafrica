@@ -31,12 +31,12 @@ What I Need :
 
 First, any contribution is a welcome contribution, just drop me a message.
 
-Second and last, our priority resides with web development and web design, web hosting & domain name, Github page as the well as content contributors.
+Second and last, our priority resides with web development and web design, as well as content contributors.
 
 
 ## Contributing
 
-Welcome to our repository, and I am thankful that you are thinking of contributing. the easiest way to contact us at this moment is through email (twitter will follow soon): mrmbnhmz@gmail.com.
+Welcome to our repository, and I am thankful that you are thinking of contributing. The easiest way to contact us at this moment is through email (twitter will follow soon): mrmbnhmz@gmail.com.
 
 Are you an African foundation, association, development institution, incubator/ accelerators, researcher in Social entrepreneurship? Help us fill our social business database and enrich our resources page. Also any feedback on our README is much appreciated.
  

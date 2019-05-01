@@ -40,9 +40,20 @@ Second and last, our priority resides with web development and web design, web h
 
 ## Contributing
 
-Welcome to our repository, and I am thankful that you are thinking of contributing.
+Welcome to our repository, and I am thankful that you are thinking of contributing. the easiest way to contact us at this moment is through email (twitter will follow soon):mrmbnhmz@gmail.com.
 
-At the moment I will wait for the results of the pilot test to decide how to have people contribute.
+Are you an African foundation, association, development institution, incubator/ accelerators, researcher in Social entrepreneurship? Help us fill our social business database and enrich our resources page. Also any feedback on our README is much appreciated.
+ 
+Are you an African Social Business owner? Reach out to us.
+ 
+Are an African student interested in social business? Tell us which resources you are most interested in.
+ 
+Are you an entity that organizes Social Entrepreneurship related events in Africa or abroad? Let us know of them.
+
+Do you know of a social business in Africa that does not get enough coverage in spite of it huge impact on the community? Please let us know about it here: https://docs.google.com/forms/d/e/1FAIpQLSfSWZ12VCzseqm7fmmzSs3844mTNVFZJml0oJNr_1L-fcZ3Zw/viewform
+
+Simply interested to help, reach out to us! We will figure something out!
+
 
 ## Participation Guidelines
 
@@ -50,6 +61,6 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## MozSprint
 
-Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mzl.la/global-sprint/)!
+TBA
 
 ![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
